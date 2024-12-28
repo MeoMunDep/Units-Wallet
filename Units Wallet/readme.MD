@@ -32,10 +32,12 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "maxPrice": 10000, //maximum price to upgrade
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "maxPrice": 100000000,
+  "delayEachAccount": [1, 81],
+  "referralCode": "0x171D49df5720fb3Ed450c4772af9B78805DCBFEE"
 }
 ```
 

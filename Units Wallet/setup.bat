@@ -82,7 +82,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd "units wallet" && node bot
+node MeoMunDep
 pause
 goto MENU
 

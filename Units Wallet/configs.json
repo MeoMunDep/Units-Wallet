@@ -1,4 +1,5 @@
 {
+  "doTasks": true,
   "maxPrice": 100000000,
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 1,

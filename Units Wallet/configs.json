@@ -1,8 +1,7 @@
 {
-  "limit": 100,
-  "countdown": 300,
-  "country_time": "en-US",
   "maxPrice": 100000000,
-  "delayEachAccount": [1, 81],
-  "referralCode": "0x171D49df5720fb3Ed450c4772af9B78805DCBFEE"
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 1,
+  "howManyAccountsRunInOneTime": 1,
+  "referralCode": "0x171D49df5720fb3Ed450c4772af9B78805DCBFEE",
 }

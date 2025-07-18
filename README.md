@@ -1,6 +1,6 @@
 📞 Contact
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 
 > If you encounter any issues or have questions, feel free to reach out:
@@ -44,7 +44,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "limit": 100,
   "countdown": 300,
-  "country_time": "en-US",
   "maxPrice": 100000000,
   "delayEachAccount": [1, 81],
   "referralCode": "0x171D49df5720fb3Ed450c4772af9B78805DCBFEE"
@@ -84,6 +83,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd "units wallet-main/units wallet"; node meomundep`
+> To run the bot, use the following command: `cd "units wallet"; node meomundep`
 
 🎇Enjoy!
